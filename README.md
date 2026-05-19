@@ -64,7 +64,15 @@ founders-playbook/
     └── resources.md      # Tools, stories, and support programs
 ```
 
-## Attribution
+## Links
+
+- **skills.sh page:** https://www.skills.sh/yaolifeng0629/founders-playbook-ylf/founders-playbook
+- **GitHub repository:** https://github.com/yaolifeng0629/founders-playbook-ylf
+- **Source material:** [*The Founder's Playbook: Building an AI-Native Startup*](https://www.anthropic.com/) by Anthropic (2026)
+
+Curated and packaged as a Claude skill by **yaolifeng** (ylf).
+
+## License
 
 Based on [*The Founder's Playbook: Building an AI-Native Startup*](https://www.anthropic.com/) by Anthropic (2026).
 
